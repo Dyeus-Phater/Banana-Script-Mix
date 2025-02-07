@@ -1,2 +1,6 @@
 # Banana-Script-Mix
-A tool for mixing and separating scripts.
+A tool to mix and separate scripts for translation projects.
+
+
+
+
