@@ -1,4 +1,4 @@
-# Banana-Script-Mix
+# 🍌Banana Script Mix
 Banana Script Mix is a simple tool to mix and separate scripts for translation projects.
 
 # Preview
