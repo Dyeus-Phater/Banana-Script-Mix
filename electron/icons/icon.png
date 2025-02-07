@@ -1,0 +1,1 @@
+<command>curl -o electron/icons/icon.png https://raw.githubusercontent.com/stackblitz/bolt/main/assets/monkey-icon.png</command>

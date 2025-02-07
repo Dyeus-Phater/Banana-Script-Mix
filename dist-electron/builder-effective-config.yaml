@@ -1,0 +1,16 @@
+directories:
+  output: dist-electron
+  buildResources: build
+appId: com.monkeyscriptmanager.app
+productName: Monkey Script Manager
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+mac:
+  icon: electron/icons/icon.icns
+win:
+  icon: electron/icons/icon.ico
+linux:
+  icon: electron/icons/icon.png
+electronVersion: 29.4.6
