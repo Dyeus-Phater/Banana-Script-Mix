@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState } from 'react';
 import { translations } from '../i18n/translations';
 
-type Language = 'en' | 'pt' | 'pt-PT' | 'es' | 'ja' | 'zh' | 'id' | 'fr' | 'de' | 'ar' | 'ko' | 'hi' | 'it' | 'ru' | 'tr' | 'nl' | 'pl' | 'sv' | 'vi' | 'th' | 'uk' | 'cs' | 'da' | 'no' | 'fi' | 'haw';
+type Language = 'en' | 'pt' | 'pt-PT' | 'es' | 'ja' | 'zh' | 'id' | 'fr' | 'de' | 'ar' | 'ko' | 'hi' | 'it' | 'ru' | 'tr' | 'nl' | 'pl' | 'sv' | 'vi' | 'th' | 'uk' | 'cs' | 'da' | 'no' | 'fi' | 'hu' | 'el' | 'he' | 'ro' | 'sk' | 'bg' | 'lt' | 'lv' | 'et' | 'sl' | 'haw';
 type Translations = typeof translations.en;
 
 interface LanguageContextType {

@@ -178,10 +178,10 @@ function App() {
                   <button
                     onClick={handleSortAlphabetically}
                     className="flex items-center gap-2 px-3 py-1.5 text-sm bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 transition-colors"
-                    title="Sort alphabetically"
+                    title={t.files.sortAlphabetically}
                   >
                     <ArrowDownAZ className="w-4 h-4" />
-                    Sort A-Z
+                    {t.files.sortAlphabetically}
                   </button>
                 </div>
                 <FileList

@@ -11,6 +11,7 @@ export const translations = {
       title: 'Uploaded Files',
       empty: 'No files uploaded yet',
       dragToReorder: 'Drag to reorder',
+      sortAlphabetically: 'Sort A-Z',
     },
     actions: {
       combine: 'Combine Files',
@@ -25,6 +26,33 @@ export const translations = {
       singleFile: 'Please upload a single combined script file',
     },
   },
+  uk: {
+    title: 'Banana Script Mix',
+    upload: {
+      title: 'Завантажити файли',
+      dropzone: 'Перетягніть файли або натисніть для завантаження',
+      onlyTxt: 'Підтримуються лише файли .txt',
+      error: 'Помилка завантаження. Будь ласка, спробуйте ще раз.',
+    },
+    files: {
+      title: 'Завантажені файли',
+      empty: 'Файли ще не завантажені',
+      dragToReorder: 'Перетягніть для зміни порядку',
+      sortAlphabetically: 'Сортувати А-Я',
+    },
+    actions: {
+      combine: "Об'єднати файли",
+      separate: 'Розділити файли',
+      remove: 'Видалити',
+    },
+    separation: {
+      title: 'Розділення скриптів',
+      dropzone: "Завантажте об'єднаний файл скриптів",
+      success: 'Скрипти успішно розділені',
+      error: 'Виникла непередбачувана помилка',
+      singleFile: "Будь ласка, завантажте один об'єднаний файл скриптів",
+    },
+  },
   pt: {
     title: 'Banana Script Mix',
     upload: {
@@ -37,6 +65,7 @@ export const translations = {
       title: 'Arquivos Enviados',
       empty: 'Nenhum arquivo enviado ainda',
       dragToReorder: 'Arraste para reordenar',
+      sortAlphabetically: 'Ordenar A-Z',
     },
     actions: {
       combine: 'Combinar Arquivos',
@@ -63,6 +92,7 @@ export const translations = {
       title: 'Ficheiros Carregados',
       empty: 'Ainda não foi carregado nenhum ficheiro',
       dragToReorder: 'Arraste para reordenar',
+      sortAlphabetically: 'Ordenar A-Z',
     },
     actions: {
       combine: 'Combinar Ficheiros',
@@ -89,6 +119,7 @@ export const translations = {
       title: 'Archivos subidos',
       empty: 'Aún no hay archivos subidos',
       dragToReorder: 'Arrastra para reorganizar',
+      sortAlphabetically: 'Ordenar A-Z',
     },
     actions: {
       combine: 'Combinar archivos',
@@ -115,6 +146,7 @@ export const translations = {
       title: 'アップロード済みファイル',
       empty: 'ファイルがまだアップロードされていません',
       dragToReorder: 'ドラッグして順序を変更',
+      sortAlphabetically: 'アルファベット順に並べ替え',
     },
     actions: {
       combine: 'ファイルを結合',
@@ -141,6 +173,7 @@ export const translations = {
       title: '已上传文件',
       empty: '尚未上传文件',
       dragToReorder: '拖动以重新排序',
+      sortAlphabetically: '按字母排序',
     },
     actions: {
       combine: '合并文件',
@@ -167,6 +200,7 @@ export const translations = {
       title: 'Berkas Terunggah',
       empty: 'Belum ada berkas yang diunggah',
       dragToReorder: 'Seret untuk mengatur ulang',
+      sortAlphabetically: 'Urutkan A-Z',
     },
     actions: {
       combine: 'Gabungkan Berkas',
@@ -193,6 +227,7 @@ export const translations = {
       title: 'Fichiers téléchargés',
       empty: 'Aucun fichier téléchargé pour le moment',
       dragToReorder: 'Glissez pour réorganiser',
+      sortAlphabetically: 'Trier A-Z',
     },
     actions: {
       combine: 'Combiner les fichiers',
@@ -203,7 +238,7 @@ export const translations = {
       title: 'Séparation de scripts',
       dropzone: 'Téléchargez le fichier de scripts combinés',
       success: 'Scripts séparés avec succès',
-      error: 'Une erreur inattendue s\'est produite lors de la séparation',
+      error: "Une erreur inattendue s'est produite lors de la séparation",
       singleFile: 'Veuillez télécharger un seul fichier combiné',
     },
   },
@@ -219,6 +254,7 @@ export const translations = {
       title: 'Hochgeladene Dateien',
       empty: 'Noch keine Dateien hochgeladen',
       dragToReorder: 'Zum Sortieren ziehen',
+      sortAlphabetically: 'Sortieren A-Z',
     },
     actions: {
       combine: 'Dateien kombinieren',
@@ -245,6 +281,7 @@ export const translations = {
       title: 'الملفات المرفوعة',
       empty: 'لا توجد ملفات مرفوعة بعد',
       dragToReorder: 'اسحب لإعادة الترتيب',
+      sortAlphabetically: 'ترتيب أ-ي',
     },
     actions: {
       combine: 'دمج الملفات',
@@ -271,6 +308,7 @@ export const translations = {
       title: '업로드된 파일',
       empty: '아직 파일이 업로드되지 않았습니다',
       dragToReorder: '드래그하여 순서 변경',
+      sortAlphabetically: '가나다순 정렬',
     },
     actions: {
       combine: '파일 결합',
@@ -297,6 +335,7 @@ export const translations = {
       title: 'अपलोड की गई फ़ाइलें',
       empty: 'अभी तक कोई फ़ाइल अपलोड नहीं की गई',
       dragToReorder: 'पुनः क्रमित करने के लिए खींचें',
+      sortAlphabetically: 'क-ज्ञ क्रम में',
     },
     actions: {
       combine: 'फ़ाइलें संयोजित करें',
@@ -323,6 +362,7 @@ export const translations = {
       title: 'File Caricati',
       empty: 'Nessun file caricato ancora',
       dragToReorder: 'Trascina per riordinare',
+      sortAlphabetically: 'Ordina A-Z',
     },
     actions: {
       combine: 'Combina File',
@@ -349,6 +389,7 @@ export const translations = {
       title: 'Загруженные файлы',
       empty: 'Файлы еще не загружены',
       dragToReorder: 'Перетащите для изменения порядка',
+      sortAlphabetically: 'Сортировать А-Я',
     },
     actions: {
       combine: 'Объединить файлы',
@@ -375,6 +416,7 @@ export const translations = {
       title: 'Yüklenen Dosyalar',
       empty: 'Henüz dosya yüklenmedi',
       dragToReorder: 'Sıralamak için sürükleyin',
+      sortAlphabetically: 'A-Z Sırala',
     },
     actions: {
       combine: 'Dosyaları Birleştir',
@@ -401,6 +443,7 @@ export const translations = {
       title: 'Geüploade Bestanden',
       empty: 'Nog geen bestanden geüpload',
       dragToReorder: 'Sleep om opnieuw te ordenen',
+      sortAlphabetically: 'Sorteer A-Z',
     },
     actions: {
       combine: 'Bestanden Samenvoegen',
@@ -418,27 +461,28 @@ export const translations = {
   pl: {
     title: 'Banana Script Mix',
     upload: {
-      title: 'Prześlij Pliki',
-      dropzone: 'Przeciągnij pliki lub kliknij, aby przesłać',
-      onlyTxt: 'Obsługiwane są tylko pliki .txt',
-      error: 'Błąd przesyłania. Spróbuj ponownie.',
+      title: 'Prześlij plik',
+      dropzone: 'Upuść pliki tutaj albo kliknij, aby przesłać',
+      onlyTxt: 'Tylko pliki .txt są wspierane',
+      error: 'Błąd podczas przesyłania. Spróbuj ponownie.',
     },
     files: {
-      title: 'Przesłane Pliki',
-      empty: 'Brak przesłanych plików',
+      title: 'Przesłane pliki',
+      empty: '(puste)',
       dragToReorder: 'Przeciągnij, aby zmienić kolejność',
+      sortAlphabetically: 'Sortuj A-Z',
     },
     actions: {
-      combine: 'Połącz Pliki',
-      separate: 'Rozdziel Pliki',
+      combine: 'Złącz pliki',
+      separate: 'Rozdziel pliki',
       remove: 'Usuń',
     },
     separation: {
-      title: 'Rozdzielanie Skryptów',
-      dropzone: 'Prześlij połączony plik skryptów',
-      success: 'Skrypty pomyślnie rozdzielone',
-      error: 'Wystąpił nieoczekiwany błąd',
-      singleFile: 'Prześlij jeden połączony plik skryptów',
+      title: 'Rozdzielanie skryptów',
+      dropzone: 'Prześlij plik ze złączonymi skryptami',
+      success: 'Pomyślnie rozdzielono skrypty',
+      error: 'Niespodziewany błąd podczas rozdzielania plików',
+      singleFile: 'Prześlij tylko jeden plik ze złączonymi skryptami',
     },
   },
   sv: {
@@ -453,6 +497,7 @@ export const translations = {
       title: 'Uppladdade Filer',
       empty: 'Inga filer har laddats upp ännu',
       dragToReorder: 'Dra för att ändra ordning',
+      sortAlphabetically: 'Sortera A-Ö',
     },
     actions: {
       combine: 'Kombinera Filer',
@@ -479,6 +524,7 @@ export const translations = {
       title: 'Tệp Đã Tải Lên',
       empty: 'Chưa có tệp nào được tải lên',
       dragToReorder: 'Kéo để sắp xếp lại',
+      sortAlphabetically: 'Sắp xếp A-Z',
     },
     actions: {
       combine: 'Kết Hợp Tệp',
@@ -505,6 +551,7 @@ export const translations = {
       title: 'ไฟล์ที่อัปโหลด',
       empty: 'ยังไม่มีไฟล์ที่อัปโหลด',
       dragToReorder: 'ลากเพื่อจัดลำดับใหม่',
+      sortAlphabetically: 'เรียง ก-ฮ',
     },
     actions: {
       combine: 'รวมไฟล์',
@@ -531,18 +578,19 @@ export const translations = {
       title: 'Завантажені файли',
       empty: 'Файли ще не завантажені',
       dragToReorder: 'Перетягніть для зміни порядку',
+      sortAlphabetically: 'Сортувати А-Я',
     },
     actions: {
-      combine: 'Об’єднати файли',
+      combine: "Об'єднати файли",
       separate: 'Розділити файли',
       remove: 'Видалити',
     },
     separation: {
       title: 'Розділення скриптів',
-      dropzone: 'Завантажте об’єднаний файл скриптів',
+      dropzone: "Завантажте об'єднаний файл скриптів",
       success: 'Скрипти успішно розділені',
       error: 'Виникла непередбачувана помилка',
-      singleFile: 'Будь ласка, завантажте один об’єднаний файл скриптів',
+      singleFile: "Будь ласка, завантажте один об'єднаний файл скриптів",
     },
   },
   cs: {
@@ -557,6 +605,7 @@ export const translations = {
       title: 'Nahrané Soubory',
       empty: 'Zatím nebyly nahrány žádné soubory',
       dragToReorder: 'Přetáhněte pro změnu pořadí',
+      sortAlphabetically: 'Seřadit A-Z',
     },
     actions: {
       combine: 'Spojit Soubory',
@@ -583,6 +632,7 @@ export const translations = {
       title: 'Uploadede Filer',
       empty: 'Ingen filer uploadet endnu',
       dragToReorder: 'Træk for at ændre rækkefølge',
+      sortAlphabetically: 'Sorter A-Z',
     },
     actions: {
       combine: 'Kombiner Filer',
@@ -609,6 +659,7 @@ export const translations = {
       title: 'Opplastede Filer',
       empty: 'Ingen filer lastet opp ennå',
       dragToReorder: 'Dra for å endre rekkefølge',
+      sortAlphabetically: 'Sorter A-Å',
     },
     actions: {
       combine: 'Kombiner Filer',
@@ -635,6 +686,7 @@ export const translations = {
       title: 'Ladatut Tiedostot',
       empty: 'Ei tiedostoja vielä ladattu',
       dragToReorder: 'Vedä järjestääksesi uudelleen',
+      sortAlphabetically: 'Lajittele A-Z',
     },
     actions: {
       combine: 'Yhdistä Tiedostot',
@@ -661,6 +713,7 @@ export const translations = {
       title: 'Feltöltött Fájlok',
       empty: 'Még nincsenek feltöltött fájlok',
       dragToReorder: 'Húzza az átrendezéshez',
+      sortAlphabetically: 'Rendezés A-Z',
     },
     actions: {
       combine: 'Fájlok Összevonása',
@@ -687,6 +740,7 @@ export const translations = {
       title: 'Ανεβασμένα Αρχεία',
       empty: 'Δεν έχουν ανεβεί αρχεία ακόμα',
       dragToReorder: 'Σύρετε για αναδιάταξη',
+      sortAlphabetically: 'Ταξινόμηση Α-Ω',
     },
     actions: {
       combine: 'Συνδυασμός Αρχείων',
@@ -713,6 +767,7 @@ export const translations = {
       title: 'קבצים שהועלו',
       empty: 'עדיין לא הועלו קבצים',
       dragToReorder: 'גרור כדי לשנות סדר',
+      sortAlphabetically: 'מיון א-ת',
     },
     actions: {
       combine: 'שילוב קבצים',
@@ -739,6 +794,7 @@ export const translations = {
       title: 'Fișiere Încărcate',
       empty: 'Nu au fost încărcate fișiere încă',
       dragToReorder: 'Trage pentru a reordona',
+      sortAlphabetically: 'Sortați A-Z',
     },
     actions: {
       combine: 'Combină Fișiere',
@@ -765,6 +821,7 @@ export const translations = {
       title: 'Nahraté Súbory',
       empty: 'Zatiaľ neboli nahrané žiadne súbory',
       dragToReorder: 'Pretiahnite pre zmenu poradia',
+      sortAlphabetically: 'Zoradiť A-Z',
     },
     actions: {
       combine: 'Spojiť Súbory',
@@ -791,6 +848,7 @@ export const translations = {
       title: 'Качени Файлове',
       empty: 'Все още няма качени файлове',
       dragToReorder: 'Плъзнете за пренареждане',
+      sortAlphabetically: 'Сортиране A-Я',
     },
     actions: {
       combine: 'Комбиниране на Файлове',
@@ -817,6 +875,7 @@ export const translations = {
       title: 'Įkelti Failai',
       empty: 'Dar nėra įkeltų failų',
       dragToReorder: 'Vilkite, kad pertvarkytumėte',
+      sortAlphabetically: 'Rūšiuoti A-Z',
     },
     actions: {
       combine: 'Sujungti Failus',
@@ -843,6 +902,7 @@ export const translations = {
       title: 'Augšupielādētie Faili',
       empty: 'Vēl nav augšupielādēti faili',
       dragToReorder: 'Velciet, lai pārkārtotu',
+      sortAlphabetically: 'Kārtot A-Z',
     },
     actions: {
       combine: 'Apvienot Failus',
@@ -869,6 +929,7 @@ export const translations = {
       title: 'Üleslaetud Failid',
       empty: 'Ühtegi faili pole veel üles laaditud',
       dragToReorder: 'Lohista ümberjärjestamiseks',
+      sortAlphabetically: 'Sorteeri A-Z',
     },
     actions: {
       combine: 'Ühenda Failid',
@@ -895,6 +956,7 @@ export const translations = {
       title: 'Naložene Datoteke',
       empty: 'Ni še naloženih datotek',
       dragToReorder: 'Povlecite za preureditev',
+      sortAlphabetically: 'Razvrsti A-Ž',
     },
     actions: {
       combine: 'Združi Datoteke',
@@ -921,6 +983,7 @@ export const translations = {
       title: 'Nā Waihona I Hoʻouka ʻia',
       empty: 'ʻAʻole i hoʻouka waihona hou',
       dragToReorder: 'E huki e hoʻoponopono hou',
+      sortAlphabetically: 'Hoʻokaʻawale A-Z',
     },
     actions: {
       combine: 'Hoʻokahi Nā Waihona',
@@ -933,6 +996,6 @@ export const translations = {
       success: 'Ua wehe ʻia nā kaipitelo me ka lāna',
       error: 'He hewa hiki ʻole i manaʻo i ka wā e wehe ana i nā kaipitelo',
       singleFile: 'E ʻoluʻolu e hoʻouka i kahi faila kaipitelo hoʻokahi',
-    },
+     },
   },
 };

@@ -28,7 +28,17 @@ const LANGUAGE_NAMES = {
   da: 'Dansk',
   no: 'Norsk',
   fi: 'Suomi',
-  haw: 'Ōlelo Hawai',
+  hu: 'Magyar', // Húngaro
+  el: 'Ελληνικά', // Grego
+  he: 'עברית', // Hebraico
+  ro: 'Română', // Romeno
+  sk: 'Slovenčina', // Eslovaco
+  bg: 'Български', // Búlgaro
+  lt: 'Lietuvių', // Lituano
+  lv: 'Latviešu', // Letão
+  et: 'Eesti', // Estoniano
+  sl: 'Slovenščina', // Esloveno
+  haw: 'Ōlelo Hawai', // Havaiano
 };
 
 export function LanguageSelector() {
