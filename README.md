@@ -20,7 +20,7 @@ This tool simplifies script management, making it easier to organize and process
    ```sh
    cd Banana-Script-Mix
    ```
-3. Install node.js:
+3. Install Node.js:
    ```sh
    [download](https://nodejs.org)
    ```
