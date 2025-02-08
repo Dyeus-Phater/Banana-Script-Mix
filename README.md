@@ -22,7 +22,7 @@ This tool simplifies script management, making it easier to organize and process
    ```
 3. Install Node.js:
    ```sh
-   [download](https://nodejs.org)
+   https://nodejs.org
    ```
 4. Install NPM:
    ```sh
