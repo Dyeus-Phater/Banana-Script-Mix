@@ -36,7 +36,7 @@ This tool simplifies script management, making it easier to organize and process
 ## Preview
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/5669eec3-4828-496e-9c1d-e3411556a202)
 
-# Translators
+## Translators
 - **Portuguese (PT)**: Rubinho146.
 - **Portuguese (BR)**: Mister.
 - **Spanish**: Jau.
