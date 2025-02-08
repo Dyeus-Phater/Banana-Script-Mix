@@ -40,5 +40,5 @@ This tool simplifies script management, making it easier to organize and process
 - **Portuguese (PT)**: Rubinho146.
 - **Portuguese (BR)**: Mister.
 - **Spanish**: Jau.
-- **Polish**: Nuclear.
+- **Polish**: Indepth6.
 
