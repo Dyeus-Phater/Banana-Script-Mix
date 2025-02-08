@@ -1,12 +1,6 @@
 # Banana Script Mix 🍌
 Banana Script Mix is a simple yet powerful tool for romhacking and translation projects. It allows you to easily merge multiple script files into one or split a combined script back into separate files.
 
-# Translators
-- **Portuguese (PT)**: Rubinho146.
-- **Portuguese (BR)**: Mister.
-- **Spanish**: Jau.
-- **Polish**: Nuclear.
-
 ## Features
 
 - **Merge and Split**: Select multiple script files and merge them into a single file, or split a merged script back into separate files.
@@ -41,4 +35,10 @@ This tool simplifies script management, making it easier to organize and process
 
 ## Preview
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/5669eec3-4828-496e-9c1d-e3411556a202)
+
+# Translators
+- **Portuguese (PT)**: Rubinho146.
+- **Portuguese (BR)**: Mister.
+- **Spanish**: Jau.
+- **Polish**: Nuclear.
 
