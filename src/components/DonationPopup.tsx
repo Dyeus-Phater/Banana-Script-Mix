@@ -26,12 +26,12 @@ export function DonationPopup({ isOpen, onClose }: DonationPopupProps) {
           <div>
             <h3 className="font-medium text-gray-700 mb-2">GitHub Repository</h3>
             <a
-              href="https://github.com/yourusername/banana-script-mix"
+              href="https://github.com/OuroborosMakerHouse/banana-script-mix"
               target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-600 hover:text-yellow-700 underline"
             >
-              github.com/yourusername/banana-script-mix
+              github.com/OuroborosMakerHouse/banana-script-mix
             </a>
           </div>
 
