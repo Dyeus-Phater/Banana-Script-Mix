@@ -996,6 +996,60 @@ export const translations = {
       success: 'Ua wehe ʻia nā kaipitelo me ka lāna',
       error: 'He hewa hiki ʻole i manaʻo i ka wā e wehe ana i nā kaipitelo',
       singleFile: 'E ʻoluʻolu e hoʻouka i kahi faila kaipitelo hoʻokahi',
+    },
+  },
+  sw: {
+    title: 'Banana Script Mix',
+    upload: {
+      title: 'Pakia Faili',
+      dropzone: 'Dondosha faili hapa au bofya kupakia',
+      onlyTxt: 'Faili za .txt pekee ndizo zinazokubalika',
+      error: 'Hitilafu katika upakiaji wa faili. Tafadhali jaribu tena.',
+    },
+    files: {
+      title: 'Faili Zilizopakuliwa',
+      empty: 'Hakuna faili zilizopakuliwa bado',
+      dragToReorder: 'Buruta ili kupanga upya',
+      sortAlphabetically: 'Panga A-Z',
+    },
+    actions: {
+      combine: 'Changanya Faili',
+      separate: 'Tenganisha Faili',
+      remove: 'Ondoa',
+    },
+    separation: {
+      title: 'Utenganishaji wa Skripti',
+      dropzone: 'Pakia faili iliyochanganywa ya skripti',
+      success: 'Skripti zimetenganishwa kwa mafanikio',
+      error: 'Hitilafu isiyotarajiwa ilitokea wakati wa kutenganisha skripti',
+      singleFile: 'Tafadhali pakia faili moja iliyochanganywa ya skripti',
+    },
+  },
+  yrl: {
+    title: 'Banana Script Mix',
+    upload: {
+      title: 'E muiké arkiwuetá',
+      dropzone: 'E muwari arkiwuetá iké u e tukari pirí muiké.',
+      onlyTxt: 'Nhũtu .txt arkiwuetá.',
+      error: 'Aikué yepé yawiçawa pirí muiké arkiwuetá. Reçaá amũ ramẽ.',
+    },
+    files: {
+      title: 'Arkiwuetá',
+      empty: 'Indé ti remuiké nẽ yepé arkiwu.',
+      dragToReorder: 'E çekí pirí mũgaturú amũ ramẽ.',
+      sortAlphabetically: 'Papari A-Z',
+    },
+    actions: {
+      combine: 'E yemuatíri arkiwuetá',
+      separate: 'E muyauka arkiwuetá',
+      remove: 'E muéu',
+    },
+    separation: {
+      title: 'Arkiwuetá muyaukaçawa',
+      dropzone: 'E muiké arkiwu yepeaçu',
+      success: 'Eréçawa pirí muyauka',
+      error: 'Yepé yawiçawa çarũiraĩma pirí muyauka.',
+      singleFile: 'E muiké yepé yepewa arkiwu yepeaçu.',
      },
   },
 };
