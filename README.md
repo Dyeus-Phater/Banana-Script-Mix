@@ -41,4 +41,4 @@ This tool simplifies script management, making it easier to organize and process
 - **Portuguese (BR)**: Mister.
 - **Spanish**: Jau.
 - **Polish**: Indepth6.
-
+- **Nheengatu**: JinjoGuy.
