@@ -40,7 +40,7 @@ const LANGUAGE_NAMES = {
   sl: 'Slovenščina', // Esloveno
   haw: 'Ōlelo Hawai', // Havaiano
   sw: 'Kiswahili', // Suaíli
-  yrl: 'Nhẽẽgatú', // Nheengatu
+  yrl: 'Nhẽẽgatú', // Nheengatu 
 };
 
 export function LanguageSelector() {
