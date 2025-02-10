@@ -6,7 +6,7 @@ Banana Script Mix is a simple yet powerful tool for romhacking and translation p
 - **Merge and Split**: Select multiple script files and merge them into a single file, or split a merged script back into separate files.
 - **Drag & Drop Sorting**: Reorder scripts by dragging them into a specific position.
 - **Alphabetical Sorting**: Automatically sort script files in alphabetical order.
-- **Supported Formats**: `.txt`, `.json`, and `.xlsx` files are fully supported.
+- **Supported Formats**: `.txt` and `.json` files are fully supported.
 
 This tool simplifies script management, making it easier to organize and process translation files efficiently.
 
